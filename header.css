@@ -1,0 +1,24 @@
+header {
+  width: 100vw;
+  height: 50px;
+}
+.indigo__firstline {
+  max-width: 1000px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.indigo__firstline > strong {
+  font-size: 25px;
+}
+.indigo__firstline > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.indigo__img {
+  width: 100vw;
+  height: 80vh;
+}
